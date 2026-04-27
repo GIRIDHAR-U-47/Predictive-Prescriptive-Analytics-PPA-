@@ -112,35 +112,9 @@ The objective of this repository is to demonstrate how raw data can be transform
 - R (optional)  
 - Jupyter Notebook  
 
----
-
-## 📂 Project Structure  
-project-root/
-│
-├── datasets/
-├── notebooks/
-│ ├── clustering.ipynb
-│ ├── statistics.ipynb
-│ ├── preprocessing.ipynb
-│ ├── visualization.ipynb
-│ ├── transformation.ipynb
-│ ├── apriori.ipynb
-│ ├── regression.ipynb
-│ ├── predictive_models.ipynb
-│ ├── temporal_analysis.ipynb
-│ ├── microarray_analysis.ipynb
-│
-├── requirements.txt
-├── README.md
-
-
----
-
 ## ▶️ How to Run  
 
-### 1. Clone the repository  
-bash
-git clone https://github.com/your-username/predictive-prescriptive-analytics.git
+1. Clone the repository  
 2. Navigate to the project
 cd predictive-prescriptive-analytics
 3. Install dependencies
